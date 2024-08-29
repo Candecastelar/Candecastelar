@@ -3,12 +3,11 @@
 
 <p id="description">¡Bienvenido a mi repositorio de GitHub! Soy un desarrolladora frontend dedicado a diseñar interfaces de usuario tanto atractivas como funcionales. En la actualidad estoy ampliando mis conocimientos para incluir el desarrollo backend con tecnologías JavaScript. ¡Gracias por visitar y espero que encuentres algo interesante!</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,c,javascript,typescript,angular,bootstrap,tailwind,mysql,html,css,vscode,figma,git,php,py" /><br>
+</p>
 
-Languages and Tools
-
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-flutter.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
-
-
+### Contactos:
 <a href="https://x.com/candecastelar">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,3 +23,4 @@ Languages and Tools
 <a href="https://youtu.be/X_zgw9GojSc">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+

@@ -9,3 +9,18 @@ Languages and Tools
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-flutter.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
 
 
+<a href="https://x.com/candecastelar">
+  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/cande-castelar/">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/candecastelar1/">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/candecastelar">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://youtu.be/X_zgw9GojSc">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>

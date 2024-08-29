@@ -1,4 +1,4 @@
-### ¡Hola! Mucho gusto.
+
 <p align="center"><img src="https://media.licdn.com/dms/image/v2/D4D16AQF9B-S8iHxSKQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724906363280?e=1730332800&v=beta&t=gT3xzS_OFkrsuMTcCu7GEwD3GXceW6NeHMaCrkScPCg" alt="project-image"></p>
 
 <p id="description">¡Bienvenido a mi repositorio de GitHub! Soy un desarrolladora frontend dedicado a diseñar interfaces de usuario tanto atractivas como funcionales. En la actualidad estoy ampliando mis conocimientos para incluir el desarrollo backend con tecnologías JavaScript. ¡Gracias por visitar y espero que encuentres algo interesante!</p>

@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media.licdn.com/dms/image/v2/D4D16AQF9B-S8iHxSKQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724906363280?e=1730332800&v=beta&t=gT3xzS_OFkrsuMTcCu7GEwD3GXceW6NeHMaCrkScPCg" alt="project-image"></p>
+<p align="center"><img src="https://media.licdn.com/dms/image/v2/D4D16AQH_7BEgD1hjUQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724906438205?e=1730937600&v=beta&t=xIRkj_3bNBIWPRIne0xU7JpbmFl1SVj1M_I34IK-CMU" alt="image"></p>
 
 <p id="description">¡Bienvenido a mi repositorio de GitHub! Soy una desarrolladora frontend dedicada a diseñar interfaces de usuario tanto atractivas como funcionales. En la actualidad estoy ampliando mis conocimientos para incluir el desarrollo backend con tecnologías JavaScript. ¡Gracias por visitar y espero que encuentres algo interesante!</p>
 

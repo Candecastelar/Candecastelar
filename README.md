@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/candecastelar">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="[https://youtu.be/X_zgw9GojSc](https://www.youtube.com/@candecastelar)">
+<a href="https://www.youtube.com/@candecastelar">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 

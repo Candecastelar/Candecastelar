@@ -1,7 +1,7 @@
 
 <p align="center"><img src="bannercande.jpg" alt="image"></p>
 
-<p id="description">¡Bienvenido a mi repositorio de GitHub! Soy una desarrolladora frontend dedicada a diseñar interfaces de usuario tanto atractivas como funcionales. En la actualidad estoy ampliando mis conocimientos para incluir el desarrollo backend con tecnologías JavaScript. ¡Gracias por visitar y espero que encuentres algo interesante!</p>
+<p id="description">¡Bienvenido a mi repositorio de GitHub! Soy una desarrolladora frontend dedicada a diseñar interfaces de usuario tanto atractivas como funcionales. En la actualidad estoy ampliando mis conocimientos para incluir el desarrollo backend. ¡Gracias por visitar y espero que encuentres algo interesante!</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,c,javascript,typescript,angular,bootstrap,tailwind,mysql,html,css,vscode,figma,git,php,py" /><br>
